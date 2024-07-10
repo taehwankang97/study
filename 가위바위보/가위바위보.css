@@ -143,4 +143,8 @@ ul{
 .draw{ color : blue; }
 .lose{ color : red; }
 
+h4{
+  border-radius: 5px;
+}
+
 /* https://webclub.tistory.com/621 */
